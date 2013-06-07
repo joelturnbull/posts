@@ -8,7 +8,7 @@ metrics. That's a lot in one sentence, so let's take a look at what
 that really means.
 
 First, I think Tracker was originally envisioned as a tool by
-consulting developers trying to get clients to understand Agile. It
+consulting developers trying to get clients to understand agile. It
 makes a lot of assumptions about how to do that. Originally, I was
 attracted to the simplicity of ticket states and the obviousness of
 how to move through them. You brainstorm into the ice box. Prioritize
@@ -78,7 +78,7 @@ This is a fairly long laundry list of things wrong with Pivotal
 Tracker. It's doubtful we could have gotten to where we are as
 Gaslight without Pivotal Tracker. Without Tracker we would have had to
 use some other tool that had more baggage to work around. Tracker has
-been the simplest thing to do Agile development for the last five
+been the simplest thing to do agile development for the last five
 years. However, these are problems we've found over the last year or
 so, as we've been trying to integrate more design into our development.
 

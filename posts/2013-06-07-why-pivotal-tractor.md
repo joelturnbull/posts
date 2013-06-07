@@ -1,7 +1,5 @@
 # Why not Pivotal Tracker?
 
-Test
-
 We've been using Pivotal Tracker for a very long time. At least once
 we've made a serious attempt to switch to something else. The time has
 come for another attempt. Our goal is to provide a more complete,
@@ -10,7 +8,7 @@ metrics. That's a lot in one sentence, so let's take a look at what
 that really means.
 
 First, I think Tracker was originally envisioned as a tool by
-consulting developers trying to get clients to understand agile. It
+consulting developers trying to get clients to understand Agile. It
 makes a lot of assumptions about how to do that. Originally, I was
 attracted to the simplicity of ticket states and the obviousness of
 how to move through them. You brainstorm into the ice box. Prioritize
@@ -30,9 +28,9 @@ deviate from what Tracker was designed to do.
 
 Likewise, once development has begun there is a back and forth between
 the developers and designers on many stories. User facing stories need
-the UI build while the functionality is being built. Finally, design
+the UI built while the functionality is being built. Finally, design
 should review all user facing work before it's delivered to the
-customer. How do you track this in Tracker? There's not enough states.
+customer. How do you track this in Tracker? There are not enough states.
 
 We can summarize this by saying Pivotal Tracker doesn't not provide a
 smooth integration between UX, UI, and developers. Our process more
@@ -80,12 +78,12 @@ This is a fairly long laundry list of things wrong with Pivotal
 Tracker. It's doubtful we could have gotten to where we are as
 Gaslight without Pivotal Tracker. Without Tracker we would have had to
 use some other tool that had more baggage to work around. Tracker has
-been the simplest thing to do agile development for the last five
+been the simplest thing to do Agile development for the last five
 years. However, these are problems we've found over the last year or
-so as we've been trying to integrate more design into our development.
+so, as we've been trying to integrate more design into our development.
 
 Our intention is to replace Tracker with some form of Kanban. David
-Anderson's book, Kanban, is an easy read that highlights how as a
-methodology it can address all of these concerns. Exactly how we end
+Anderson's book, Kanban, is an easy read that highlights how, as a
+methodology, it can address all of these concerns. Exactly how we end
 up implementing Kanban isn't quite clear. In the coming weeks it
 should become more clear and will warrant more writing. Stay tuned!
